@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bullstock.com.bullstock.Login"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!--com.beardedhen.androidbootstrap.AwesomeTextView
+        style="@style/wrapping_fa_text"
+        android:textSize="30dp"
+        app:bootstrapBrand="primary"
+        app:bootstrapText="dsnnnjfnn"
+        tools:ignore="SpUsage"
+        /-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+    <EditText
+        android:id="@+id/login_username"
+        android:hint="Username"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/login_password"
+        android:hint="Password"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:elevation="20dp"
+            android:text="Login"
+            android:background="@color/button_green"
+            android:layout_margin="20dp"/>
+
+    </LinearLayout>
+
+</FrameLayout>

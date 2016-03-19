@@ -1,0 +1,3302 @@
+[
+    {
+        "outputFile": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 18,
+                    "endColumn": 11,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endLine": 18,
+                        "endColumn": 11,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endLine": 25,
+                        "endColumn": 11,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endLine": 31,
+                    "endColumn": 11,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 726,
+                    "endColumn": 11,
+                    "endOffset": 34278
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endLine": 726,
+                        "endColumn": 11,
+                        "endOffset": 34278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 727,
+                    "startColumn": 4,
+                    "startOffset": 34283,
+                    "endColumn": 45,
+                    "endOffset": 34324
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 727,
+                        "startColumn": 4,
+                        "startOffset": 34283,
+                        "endColumn": 45,
+                        "endOffset": 34324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 728,
+                    "startColumn": 4,
+                    "startOffset": 34329,
+                    "endColumn": 50,
+                    "endOffset": 34375
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 728,
+                        "startColumn": 4,
+                        "startOffset": 34329,
+                        "endColumn": 50,
+                        "endOffset": 34375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 34380,
+                    "endColumn": 47,
+                    "endOffset": 34423
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 729,
+                        "startColumn": 4,
+                        "startOffset": 34380,
+                        "endColumn": 47,
+                        "endOffset": 34423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 34428,
+                    "endLine": 1067,
+                    "endColumn": 11,
+                    "endOffset": 51470
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 730,
+                        "startColumn": 4,
+                        "startOffset": 34428,
+                        "endLine": 1067,
+                        "endColumn": 11,
+                        "endOffset": 51470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1068,
+                    "startColumn": 4,
+                    "startOffset": 51475,
+                    "endColumn": 56,
+                    "endOffset": 51527
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1068,
+                        "startColumn": 4,
+                        "startOffset": 51475,
+                        "endColumn": 56,
+                        "endOffset": 51527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1069,
+                    "startColumn": 4,
+                    "startOffset": 51532,
+                    "endColumn": 54,
+                    "endOffset": 51582
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1069,
+                        "startColumn": 4,
+                        "startOffset": 51532,
+                        "endColumn": 54,
+                        "endOffset": 51582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1070,
+                    "startColumn": 4,
+                    "startOffset": 51587,
+                    "endColumn": 57,
+                    "endOffset": 51640
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1070,
+                        "startColumn": 4,
+                        "startOffset": 51587,
+                        "endColumn": 57,
+                        "endOffset": 51640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1071,
+                    "startColumn": 4,
+                    "startOffset": 51645,
+                    "endColumn": 66,
+                    "endOffset": 51707
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1071,
+                        "startColumn": 4,
+                        "startOffset": 51645,
+                        "endColumn": 66,
+                        "endOffset": 51707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1072,
+                    "startColumn": 4,
+                    "startOffset": 51712,
+                    "endColumn": 64,
+                    "endOffset": 51772
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1072,
+                        "startColumn": 4,
+                        "startOffset": 51712,
+                        "endColumn": 64,
+                        "endOffset": 51772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1073,
+                    "startColumn": 4,
+                    "startOffset": 51777,
+                    "endColumn": 64,
+                    "endOffset": 51837
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1073,
+                        "startColumn": 4,
+                        "startOffset": 51777,
+                        "endColumn": 64,
+                        "endOffset": 51837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 51842,
+                    "endColumn": 57,
+                    "endOffset": 51895
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1074,
+                        "startColumn": 4,
+                        "startOffset": 51842,
+                        "endColumn": 57,
+                        "endOffset": 51895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1075,
+                    "startColumn": 4,
+                    "startOffset": 51900,
+                    "endColumn": 57,
+                    "endOffset": 51953
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1075,
+                        "startColumn": 4,
+                        "startOffset": 51900,
+                        "endColumn": 57,
+                        "endOffset": 51953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1076,
+                    "startColumn": 4,
+                    "startOffset": 51958,
+                    "endColumn": 63,
+                    "endOffset": 52017
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1076,
+                        "startColumn": 4,
+                        "startOffset": 51958,
+                        "endColumn": 63,
+                        "endOffset": 52017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 52022,
+                    "endColumn": 48,
+                    "endOffset": 52066
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1077,
+                        "startColumn": 4,
+                        "startOffset": 52022,
+                        "endColumn": 48,
+                        "endOffset": 52066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1078,
+                    "startColumn": 4,
+                    "startOffset": 52071,
+                    "endColumn": 53,
+                    "endOffset": 52120
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1078,
+                        "startColumn": 4,
+                        "startOffset": 52071,
+                        "endColumn": 53,
+                        "endOffset": 52120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1079,
+                    "startColumn": 4,
+                    "startOffset": 52125,
+                    "endColumn": 54,
+                    "endOffset": 52175
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1079,
+                        "startColumn": 4,
+                        "startOffset": 52125,
+                        "endColumn": 54,
+                        "endOffset": 52175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1080,
+                    "startColumn": 4,
+                    "startOffset": 52180,
+                    "endColumn": 56,
+                    "endOffset": 52232
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1080,
+                        "startColumn": 4,
+                        "startOffset": 52180,
+                        "endColumn": 56,
+                        "endOffset": 52232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 52237,
+                    "endColumn": 57,
+                    "endOffset": 52290
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1081,
+                        "startColumn": 4,
+                        "startOffset": 52237,
+                        "endColumn": 57,
+                        "endOffset": 52290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1082,
+                    "startColumn": 4,
+                    "startOffset": 52295,
+                    "endColumn": 66,
+                    "endOffset": 52357
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1082,
+                        "startColumn": 4,
+                        "startOffset": 52295,
+                        "endColumn": 66,
+                        "endOffset": 52357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1091,
+                    "startColumn": 4,
+                    "startOffset": 53862,
+                    "endColumn": 68,
+                    "endOffset": 53926
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1091,
+                        "startColumn": 4,
+                        "startOffset": 53862,
+                        "endColumn": 68,
+                        "endOffset": 53926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1092,
+                    "startColumn": 4,
+                    "startOffset": 53931,
+                    "endColumn": 65,
+                    "endOffset": 53992
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1092,
+                        "startColumn": 4,
+                        "startOffset": 53931,
+                        "endColumn": 65,
+                        "endOffset": 53992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1093,
+                    "startColumn": 4,
+                    "startOffset": 53997,
+                    "endColumn": 65,
+                    "endOffset": 54058
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1093,
+                        "startColumn": 4,
+                        "startOffset": 53997,
+                        "endColumn": 65,
+                        "endOffset": 54058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1094,
+                    "startColumn": 4,
+                    "startOffset": 54063,
+                    "endColumn": 68,
+                    "endOffset": 54127
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1094,
+                        "startColumn": 4,
+                        "startOffset": 54063,
+                        "endColumn": 68,
+                        "endOffset": 54127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1095,
+                    "startColumn": 4,
+                    "startOffset": 54132,
+                    "endColumn": 70,
+                    "endOffset": 54198
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1095,
+                        "startColumn": 4,
+                        "startOffset": 54132,
+                        "endColumn": 70,
+                        "endOffset": 54198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 54203,
+                    "endColumn": 61,
+                    "endOffset": 54260
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1096,
+                        "startColumn": 4,
+                        "startOffset": 54203,
+                        "endColumn": 61,
+                        "endOffset": 54260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 54265,
+                    "endColumn": 63,
+                    "endOffset": 54324
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1097,
+                        "startColumn": 4,
+                        "startOffset": 54265,
+                        "endColumn": 63,
+                        "endOffset": 54324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 54329,
+                    "endColumn": 68,
+                    "endOffset": 54393
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1098,
+                        "startColumn": 4,
+                        "startOffset": 54329,
+                        "endColumn": 68,
+                        "endOffset": 54393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 54398,
+                    "endColumn": 62,
+                    "endOffset": 54456
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1099,
+                        "startColumn": 4,
+                        "startOffset": 54398,
+                        "endColumn": 62,
+                        "endOffset": 54456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 54461,
+                    "endColumn": 65,
+                    "endOffset": 54522
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1100,
+                        "startColumn": 4,
+                        "startOffset": 54461,
+                        "endColumn": 65,
+                        "endOffset": 54522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 54527,
+                    "endColumn": 62,
+                    "endOffset": 54585
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1101,
+                        "startColumn": 4,
+                        "startOffset": 54527,
+                        "endColumn": 62,
+                        "endOffset": 54585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 54590,
+                    "endColumn": 58,
+                    "endOffset": 54644
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1102,
+                        "startColumn": 4,
+                        "startOffset": 54590,
+                        "endColumn": 58,
+                        "endOffset": 54644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 54649,
+                    "endColumn": 55,
+                    "endOffset": 54700
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1103,
+                        "startColumn": 4,
+                        "startOffset": 54649,
+                        "endColumn": 55,
+                        "endOffset": 54700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 54705,
+                    "endColumn": 59,
+                    "endOffset": 54760
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1104,
+                        "startColumn": 4,
+                        "startOffset": 54705,
+                        "endColumn": 59,
+                        "endOffset": 54760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 54765,
+                    "endColumn": 58,
+                    "endOffset": 54819
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1105,
+                        "startColumn": 4,
+                        "startOffset": 54765,
+                        "endColumn": 58,
+                        "endOffset": 54819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 54824,
+                    "endColumn": 53,
+                    "endOffset": 54873
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1106,
+                        "startColumn": 4,
+                        "startOffset": 54824,
+                        "endColumn": 53,
+                        "endOffset": 54873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 54878,
+                    "endColumn": 55,
+                    "endOffset": 54929
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1107,
+                        "startColumn": 4,
+                        "startOffset": 54878,
+                        "endColumn": 55,
+                        "endOffset": 54929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 54934,
+                    "endColumn": 57,
+                    "endOffset": 54987
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1108,
+                        "startColumn": 4,
+                        "startOffset": 54934,
+                        "endColumn": 57,
+                        "endOffset": 54987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 54992,
+                    "endColumn": 55,
+                    "endOffset": 55043
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1109,
+                        "startColumn": 4,
+                        "startOffset": 54992,
+                        "endColumn": 55,
+                        "endOffset": 55043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 55048,
+                    "endColumn": 59,
+                    "endOffset": 55103
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1110,
+                        "startColumn": 4,
+                        "startOffset": 55048,
+                        "endColumn": 59,
+                        "endOffset": 55103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 55108,
+                    "endColumn": 57,
+                    "endOffset": 55161
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1111,
+                        "startColumn": 4,
+                        "startOffset": 55108,
+                        "endColumn": 57,
+                        "endOffset": 55161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 55166,
+                    "endColumn": 53,
+                    "endOffset": 55215
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1112,
+                        "startColumn": 4,
+                        "startOffset": 55166,
+                        "endColumn": 53,
+                        "endOffset": 55215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 55220,
+                    "endColumn": 58,
+                    "endOffset": 55274
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1113,
+                        "startColumn": 4,
+                        "startOffset": 55220,
+                        "endColumn": 58,
+                        "endOffset": 55274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 55279,
+                    "endColumn": 55,
+                    "endOffset": 55330
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1114,
+                        "startColumn": 4,
+                        "startOffset": 55279,
+                        "endColumn": 55,
+                        "endOffset": 55330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 55335,
+                    "endColumn": 55,
+                    "endOffset": 55386
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1115,
+                        "startColumn": 4,
+                        "startOffset": 55335,
+                        "endColumn": 55,
+                        "endOffset": 55386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 55391,
+                    "endColumn": 59,
+                    "endOffset": 55446
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1116,
+                        "startColumn": 4,
+                        "startOffset": 55391,
+                        "endColumn": 59,
+                        "endOffset": 55446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1117,
+                    "startColumn": 4,
+                    "startOffset": 55451,
+                    "endColumn": 57,
+                    "endOffset": 55504
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1117,
+                        "startColumn": 4,
+                        "startOffset": 55451,
+                        "endColumn": 57,
+                        "endOffset": 55504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 55509,
+                    "endColumn": 53,
+                    "endOffset": 55558
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1118,
+                        "startColumn": 4,
+                        "startOffset": 55509,
+                        "endColumn": 53,
+                        "endOffset": 55558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 55563,
+                    "endColumn": 57,
+                    "endOffset": 55616
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1119,
+                        "startColumn": 4,
+                        "startOffset": 55563,
+                        "endColumn": 57,
+                        "endOffset": 55616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1120,
+                    "startColumn": 4,
+                    "startOffset": 55621,
+                    "endColumn": 60,
+                    "endOffset": 55677
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1120,
+                        "startColumn": 4,
+                        "startOffset": 55621,
+                        "endColumn": 60,
+                        "endOffset": 55677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1121,
+                    "startColumn": 4,
+                    "startOffset": 55682,
+                    "endColumn": 55,
+                    "endOffset": 55733
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1121,
+                        "startColumn": 4,
+                        "startOffset": 55682,
+                        "endColumn": 55,
+                        "endOffset": 55733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1122,
+                    "startColumn": 4,
+                    "startOffset": 55738,
+                    "endColumn": 53,
+                    "endOffset": 55787
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1122,
+                        "startColumn": 4,
+                        "startOffset": 55738,
+                        "endColumn": 53,
+                        "endOffset": 55787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 55792,
+                    "endColumn": 55,
+                    "endOffset": 55843
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/AndroidBootstrap/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 1123,
+                        "startColumn": 4,
+                        "startOffset": 55792,
+                        "endColumn": 55,
+                        "endOffset": 55843
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 18,
+                    "endColumn": 11,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endLine": 18,
+                        "endColumn": 11,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endLine": 25,
+                        "endColumn": 11,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endLine": 31,
+                    "endColumn": 11,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 726,
+                    "endColumn": 11,
+                    "endOffset": 34278
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endLine": 726,
+                        "endColumn": 11,
+                        "endOffset": 34278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 727,
+                    "startColumn": 4,
+                    "startOffset": 34283,
+                    "endColumn": 45,
+                    "endOffset": 34324
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 727,
+                        "startColumn": 4,
+                        "startOffset": 34283,
+                        "endColumn": 45,
+                        "endOffset": 34324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 728,
+                    "startColumn": 4,
+                    "startOffset": 34329,
+                    "endColumn": 50,
+                    "endOffset": 34375
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 728,
+                        "startColumn": 4,
+                        "startOffset": 34329,
+                        "endColumn": 50,
+                        "endOffset": 34375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 34380,
+                    "endColumn": 47,
+                    "endOffset": 34423
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 729,
+                        "startColumn": 4,
+                        "startOffset": 34380,
+                        "endColumn": 47,
+                        "endOffset": 34423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 34428,
+                    "endLine": 1067,
+                    "endColumn": 11,
+                    "endOffset": 51470
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 730,
+                        "startColumn": 4,
+                        "startOffset": 34428,
+                        "endLine": 1067,
+                        "endColumn": 11,
+                        "endOffset": 51470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1068,
+                    "startColumn": 4,
+                    "startOffset": 51475,
+                    "endColumn": 56,
+                    "endOffset": 51527
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1068,
+                        "startColumn": 4,
+                        "startOffset": 51475,
+                        "endColumn": 56,
+                        "endOffset": 51527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1069,
+                    "startColumn": 4,
+                    "startOffset": 51532,
+                    "endColumn": 54,
+                    "endOffset": 51582
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1069,
+                        "startColumn": 4,
+                        "startOffset": 51532,
+                        "endColumn": 54,
+                        "endOffset": 51582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1070,
+                    "startColumn": 4,
+                    "startOffset": 51587,
+                    "endColumn": 57,
+                    "endOffset": 51640
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1070,
+                        "startColumn": 4,
+                        "startOffset": 51587,
+                        "endColumn": 57,
+                        "endOffset": 51640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1071,
+                    "startColumn": 4,
+                    "startOffset": 51645,
+                    "endColumn": 66,
+                    "endOffset": 51707
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1071,
+                        "startColumn": 4,
+                        "startOffset": 51645,
+                        "endColumn": 66,
+                        "endOffset": 51707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1072,
+                    "startColumn": 4,
+                    "startOffset": 51712,
+                    "endColumn": 64,
+                    "endOffset": 51772
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1072,
+                        "startColumn": 4,
+                        "startOffset": 51712,
+                        "endColumn": 64,
+                        "endOffset": 51772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1073,
+                    "startColumn": 4,
+                    "startOffset": 51777,
+                    "endColumn": 64,
+                    "endOffset": 51837
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1073,
+                        "startColumn": 4,
+                        "startOffset": 51777,
+                        "endColumn": 64,
+                        "endOffset": 51837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 51842,
+                    "endColumn": 57,
+                    "endOffset": 51895
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1074,
+                        "startColumn": 4,
+                        "startOffset": 51842,
+                        "endColumn": 57,
+                        "endOffset": 51895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1075,
+                    "startColumn": 4,
+                    "startOffset": 51900,
+                    "endColumn": 57,
+                    "endOffset": 51953
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1075,
+                        "startColumn": 4,
+                        "startOffset": 51900,
+                        "endColumn": 57,
+                        "endOffset": 51953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1076,
+                    "startColumn": 4,
+                    "startOffset": 51958,
+                    "endColumn": 63,
+                    "endOffset": 52017
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1076,
+                        "startColumn": 4,
+                        "startOffset": 51958,
+                        "endColumn": 63,
+                        "endOffset": 52017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 52022,
+                    "endColumn": 48,
+                    "endOffset": 52066
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1077,
+                        "startColumn": 4,
+                        "startOffset": 52022,
+                        "endColumn": 48,
+                        "endOffset": 52066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1078,
+                    "startColumn": 4,
+                    "startOffset": 52071,
+                    "endColumn": 53,
+                    "endOffset": 52120
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1078,
+                        "startColumn": 4,
+                        "startOffset": 52071,
+                        "endColumn": 53,
+                        "endOffset": 52120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1079,
+                    "startColumn": 4,
+                    "startOffset": 52125,
+                    "endColumn": 54,
+                    "endOffset": 52175
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1079,
+                        "startColumn": 4,
+                        "startOffset": 52125,
+                        "endColumn": 54,
+                        "endOffset": 52175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1080,
+                    "startColumn": 4,
+                    "startOffset": 52180,
+                    "endColumn": 56,
+                    "endOffset": 52232
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1080,
+                        "startColumn": 4,
+                        "startOffset": 52180,
+                        "endColumn": 56,
+                        "endOffset": 52232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 52237,
+                    "endColumn": 57,
+                    "endOffset": 52290
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1081,
+                        "startColumn": 4,
+                        "startOffset": 52237,
+                        "endColumn": 57,
+                        "endOffset": 52290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1082,
+                    "startColumn": 4,
+                    "startOffset": 52295,
+                    "endColumn": 66,
+                    "endOffset": 52357
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1082,
+                        "startColumn": 4,
+                        "startOffset": 52295,
+                        "endColumn": 66,
+                        "endOffset": 52357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1091,
+                    "startColumn": 4,
+                    "startOffset": 53862,
+                    "endColumn": 68,
+                    "endOffset": 53926
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1091,
+                        "startColumn": 4,
+                        "startOffset": 53862,
+                        "endColumn": 68,
+                        "endOffset": 53926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1092,
+                    "startColumn": 4,
+                    "startOffset": 53931,
+                    "endColumn": 65,
+                    "endOffset": 53992
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1092,
+                        "startColumn": 4,
+                        "startOffset": 53931,
+                        "endColumn": 65,
+                        "endOffset": 53992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1093,
+                    "startColumn": 4,
+                    "startOffset": 53997,
+                    "endColumn": 65,
+                    "endOffset": 54058
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1093,
+                        "startColumn": 4,
+                        "startOffset": 53997,
+                        "endColumn": 65,
+                        "endOffset": 54058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1094,
+                    "startColumn": 4,
+                    "startOffset": 54063,
+                    "endColumn": 68,
+                    "endOffset": 54127
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1094,
+                        "startColumn": 4,
+                        "startOffset": 54063,
+                        "endColumn": 68,
+                        "endOffset": 54127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1095,
+                    "startColumn": 4,
+                    "startOffset": 54132,
+                    "endColumn": 70,
+                    "endOffset": 54198
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1095,
+                        "startColumn": 4,
+                        "startOffset": 54132,
+                        "endColumn": 70,
+                        "endOffset": 54198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 54203,
+                    "endColumn": 61,
+                    "endOffset": 54260
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1096,
+                        "startColumn": 4,
+                        "startOffset": 54203,
+                        "endColumn": 61,
+                        "endOffset": 54260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 54265,
+                    "endColumn": 63,
+                    "endOffset": 54324
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1097,
+                        "startColumn": 4,
+                        "startOffset": 54265,
+                        "endColumn": 63,
+                        "endOffset": 54324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 54329,
+                    "endColumn": 68,
+                    "endOffset": 54393
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1098,
+                        "startColumn": 4,
+                        "startOffset": 54329,
+                        "endColumn": 68,
+                        "endOffset": 54393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 54398,
+                    "endColumn": 62,
+                    "endOffset": 54456
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1099,
+                        "startColumn": 4,
+                        "startOffset": 54398,
+                        "endColumn": 62,
+                        "endOffset": 54456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 54461,
+                    "endColumn": 65,
+                    "endOffset": 54522
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1100,
+                        "startColumn": 4,
+                        "startOffset": 54461,
+                        "endColumn": 65,
+                        "endOffset": 54522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 54527,
+                    "endColumn": 62,
+                    "endOffset": 54585
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1101,
+                        "startColumn": 4,
+                        "startOffset": 54527,
+                        "endColumn": 62,
+                        "endOffset": 54585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 54590,
+                    "endColumn": 58,
+                    "endOffset": 54644
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1102,
+                        "startColumn": 4,
+                        "startOffset": 54590,
+                        "endColumn": 58,
+                        "endOffset": 54644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 54649,
+                    "endColumn": 55,
+                    "endOffset": 54700
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1103,
+                        "startColumn": 4,
+                        "startOffset": 54649,
+                        "endColumn": 55,
+                        "endOffset": 54700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 54705,
+                    "endColumn": 59,
+                    "endOffset": 54760
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1104,
+                        "startColumn": 4,
+                        "startOffset": 54705,
+                        "endColumn": 59,
+                        "endOffset": 54760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 54765,
+                    "endColumn": 58,
+                    "endOffset": 54819
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1105,
+                        "startColumn": 4,
+                        "startOffset": 54765,
+                        "endColumn": 58,
+                        "endOffset": 54819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 54824,
+                    "endColumn": 53,
+                    "endOffset": 54873
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1106,
+                        "startColumn": 4,
+                        "startOffset": 54824,
+                        "endColumn": 53,
+                        "endOffset": 54873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 54878,
+                    "endColumn": 55,
+                    "endOffset": 54929
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1107,
+                        "startColumn": 4,
+                        "startOffset": 54878,
+                        "endColumn": 55,
+                        "endOffset": 54929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 54934,
+                    "endColumn": 57,
+                    "endOffset": 54987
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1108,
+                        "startColumn": 4,
+                        "startOffset": 54934,
+                        "endColumn": 57,
+                        "endOffset": 54987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 54992,
+                    "endColumn": 55,
+                    "endOffset": 55043
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1109,
+                        "startColumn": 4,
+                        "startOffset": 54992,
+                        "endColumn": 55,
+                        "endOffset": 55043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 55048,
+                    "endColumn": 59,
+                    "endOffset": 55103
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1110,
+                        "startColumn": 4,
+                        "startOffset": 55048,
+                        "endColumn": 59,
+                        "endOffset": 55103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 55108,
+                    "endColumn": 57,
+                    "endOffset": 55161
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1111,
+                        "startColumn": 4,
+                        "startOffset": 55108,
+                        "endColumn": 57,
+                        "endOffset": 55161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 55166,
+                    "endColumn": 53,
+                    "endOffset": 55215
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1112,
+                        "startColumn": 4,
+                        "startOffset": 55166,
+                        "endColumn": 53,
+                        "endOffset": 55215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 55220,
+                    "endColumn": 58,
+                    "endOffset": 55274
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1113,
+                        "startColumn": 4,
+                        "startOffset": 55220,
+                        "endColumn": 58,
+                        "endOffset": 55274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 55279,
+                    "endColumn": 55,
+                    "endOffset": 55330
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1114,
+                        "startColumn": 4,
+                        "startOffset": 55279,
+                        "endColumn": 55,
+                        "endOffset": 55330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 55335,
+                    "endColumn": 55,
+                    "endOffset": 55386
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1115,
+                        "startColumn": 4,
+                        "startOffset": 55335,
+                        "endColumn": 55,
+                        "endOffset": 55386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 55391,
+                    "endColumn": 59,
+                    "endOffset": 55446
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1116,
+                        "startColumn": 4,
+                        "startOffset": 55391,
+                        "endColumn": 59,
+                        "endOffset": 55446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1117,
+                    "startColumn": 4,
+                    "startOffset": 55451,
+                    "endColumn": 57,
+                    "endOffset": 55504
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1117,
+                        "startColumn": 4,
+                        "startOffset": 55451,
+                        "endColumn": 57,
+                        "endOffset": 55504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 55509,
+                    "endColumn": 53,
+                    "endOffset": 55558
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1118,
+                        "startColumn": 4,
+                        "startOffset": 55509,
+                        "endColumn": 53,
+                        "endOffset": 55558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 55563,
+                    "endColumn": 57,
+                    "endOffset": 55616
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1119,
+                        "startColumn": 4,
+                        "startOffset": 55563,
+                        "endColumn": 57,
+                        "endOffset": 55616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1120,
+                    "startColumn": 4,
+                    "startOffset": 55621,
+                    "endColumn": 60,
+                    "endOffset": 55677
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1120,
+                        "startColumn": 4,
+                        "startOffset": 55621,
+                        "endColumn": 60,
+                        "endOffset": 55677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1121,
+                    "startColumn": 4,
+                    "startOffset": 55682,
+                    "endColumn": 55,
+                    "endOffset": 55733
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1121,
+                        "startColumn": 4,
+                        "startOffset": 55682,
+                        "endColumn": 55,
+                        "endOffset": 55733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1122,
+                    "startColumn": 4,
+                    "startOffset": 55738,
+                    "endColumn": 53,
+                    "endOffset": 55787
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1122,
+                        "startColumn": 4,
+                        "startOffset": 55738,
+                        "endColumn": 53,
+                        "endOffset": 55787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 55792,
+                    "endColumn": 55,
+                    "endOffset": 55843
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/C:\\Users\\shrey\\Desktop\\BullStock_final-326a7f806f4920b76718a20d28285e7440b58465\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1123,
+                        "startColumn": 4,
+                        "startOffset": 55792,
+                        "endColumn": 55,
+                        "endOffset": 55843
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 18,
+                    "endColumn": 11,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endLine": 18,
+                        "endColumn": 11,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endLine": 25,
+                        "endColumn": 11,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endLine": 31,
+                    "endColumn": 11,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 726,
+                    "endColumn": 11,
+                    "endOffset": 34278
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endLine": 726,
+                        "endColumn": 11,
+                        "endOffset": 34278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 727,
+                    "startColumn": 4,
+                    "startOffset": 34283,
+                    "endColumn": 45,
+                    "endOffset": 34324
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 727,
+                        "startColumn": 4,
+                        "startOffset": 34283,
+                        "endColumn": 45,
+                        "endOffset": 34324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 728,
+                    "startColumn": 4,
+                    "startOffset": 34329,
+                    "endColumn": 50,
+                    "endOffset": 34375
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 728,
+                        "startColumn": 4,
+                        "startOffset": 34329,
+                        "endColumn": 50,
+                        "endOffset": 34375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 34380,
+                    "endColumn": 47,
+                    "endOffset": 34423
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 729,
+                        "startColumn": 4,
+                        "startOffset": 34380,
+                        "endColumn": 47,
+                        "endOffset": 34423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 34428,
+                    "endLine": 1067,
+                    "endColumn": 11,
+                    "endOffset": 51470
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 730,
+                        "startColumn": 4,
+                        "startOffset": 34428,
+                        "endLine": 1067,
+                        "endColumn": 11,
+                        "endOffset": 51470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1068,
+                    "startColumn": 4,
+                    "startOffset": 51475,
+                    "endColumn": 56,
+                    "endOffset": 51527
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1068,
+                        "startColumn": 4,
+                        "startOffset": 51475,
+                        "endColumn": 56,
+                        "endOffset": 51527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1069,
+                    "startColumn": 4,
+                    "startOffset": 51532,
+                    "endColumn": 54,
+                    "endOffset": 51582
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1069,
+                        "startColumn": 4,
+                        "startOffset": 51532,
+                        "endColumn": 54,
+                        "endOffset": 51582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1070,
+                    "startColumn": 4,
+                    "startOffset": 51587,
+                    "endColumn": 57,
+                    "endOffset": 51640
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1070,
+                        "startColumn": 4,
+                        "startOffset": 51587,
+                        "endColumn": 57,
+                        "endOffset": 51640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1071,
+                    "startColumn": 4,
+                    "startOffset": 51645,
+                    "endColumn": 66,
+                    "endOffset": 51707
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1071,
+                        "startColumn": 4,
+                        "startOffset": 51645,
+                        "endColumn": 66,
+                        "endOffset": 51707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1072,
+                    "startColumn": 4,
+                    "startOffset": 51712,
+                    "endColumn": 64,
+                    "endOffset": 51772
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1072,
+                        "startColumn": 4,
+                        "startOffset": 51712,
+                        "endColumn": 64,
+                        "endOffset": 51772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1073,
+                    "startColumn": 4,
+                    "startOffset": 51777,
+                    "endColumn": 64,
+                    "endOffset": 51837
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1073,
+                        "startColumn": 4,
+                        "startOffset": 51777,
+                        "endColumn": 64,
+                        "endOffset": 51837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 51842,
+                    "endColumn": 57,
+                    "endOffset": 51895
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1074,
+                        "startColumn": 4,
+                        "startOffset": 51842,
+                        "endColumn": 57,
+                        "endOffset": 51895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1075,
+                    "startColumn": 4,
+                    "startOffset": 51900,
+                    "endColumn": 57,
+                    "endOffset": 51953
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1075,
+                        "startColumn": 4,
+                        "startOffset": 51900,
+                        "endColumn": 57,
+                        "endOffset": 51953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1076,
+                    "startColumn": 4,
+                    "startOffset": 51958,
+                    "endColumn": 63,
+                    "endOffset": 52017
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1076,
+                        "startColumn": 4,
+                        "startOffset": 51958,
+                        "endColumn": 63,
+                        "endOffset": 52017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 52022,
+                    "endColumn": 48,
+                    "endOffset": 52066
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1077,
+                        "startColumn": 4,
+                        "startOffset": 52022,
+                        "endColumn": 48,
+                        "endOffset": 52066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1078,
+                    "startColumn": 4,
+                    "startOffset": 52071,
+                    "endColumn": 53,
+                    "endOffset": 52120
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1078,
+                        "startColumn": 4,
+                        "startOffset": 52071,
+                        "endColumn": 53,
+                        "endOffset": 52120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1079,
+                    "startColumn": 4,
+                    "startOffset": 52125,
+                    "endColumn": 54,
+                    "endOffset": 52175
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1079,
+                        "startColumn": 4,
+                        "startOffset": 52125,
+                        "endColumn": 54,
+                        "endOffset": 52175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1080,
+                    "startColumn": 4,
+                    "startOffset": 52180,
+                    "endColumn": 56,
+                    "endOffset": 52232
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1080,
+                        "startColumn": 4,
+                        "startOffset": 52180,
+                        "endColumn": 56,
+                        "endOffset": 52232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 52237,
+                    "endColumn": 57,
+                    "endOffset": 52290
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1081,
+                        "startColumn": 4,
+                        "startOffset": 52237,
+                        "endColumn": 57,
+                        "endOffset": 52290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1082,
+                    "startColumn": 4,
+                    "startOffset": 52295,
+                    "endColumn": 66,
+                    "endOffset": 52357
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1082,
+                        "startColumn": 4,
+                        "startOffset": 52295,
+                        "endColumn": 66,
+                        "endOffset": 52357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1091,
+                    "startColumn": 4,
+                    "startOffset": 53862,
+                    "endColumn": 68,
+                    "endOffset": 53926
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1091,
+                        "startColumn": 4,
+                        "startOffset": 53862,
+                        "endColumn": 68,
+                        "endOffset": 53926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1092,
+                    "startColumn": 4,
+                    "startOffset": 53931,
+                    "endColumn": 65,
+                    "endOffset": 53992
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1092,
+                        "startColumn": 4,
+                        "startOffset": 53931,
+                        "endColumn": 65,
+                        "endOffset": 53992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1093,
+                    "startColumn": 4,
+                    "startOffset": 53997,
+                    "endColumn": 65,
+                    "endOffset": 54058
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1093,
+                        "startColumn": 4,
+                        "startOffset": 53997,
+                        "endColumn": 65,
+                        "endOffset": 54058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1094,
+                    "startColumn": 4,
+                    "startOffset": 54063,
+                    "endColumn": 68,
+                    "endOffset": 54127
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1094,
+                        "startColumn": 4,
+                        "startOffset": 54063,
+                        "endColumn": 68,
+                        "endOffset": 54127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1095,
+                    "startColumn": 4,
+                    "startOffset": 54132,
+                    "endColumn": 70,
+                    "endOffset": 54198
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1095,
+                        "startColumn": 4,
+                        "startOffset": 54132,
+                        "endColumn": 70,
+                        "endOffset": 54198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 54203,
+                    "endColumn": 61,
+                    "endOffset": 54260
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1096,
+                        "startColumn": 4,
+                        "startOffset": 54203,
+                        "endColumn": 61,
+                        "endOffset": 54260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 54265,
+                    "endColumn": 63,
+                    "endOffset": 54324
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1097,
+                        "startColumn": 4,
+                        "startOffset": 54265,
+                        "endColumn": 63,
+                        "endOffset": 54324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 54329,
+                    "endColumn": 68,
+                    "endOffset": 54393
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1098,
+                        "startColumn": 4,
+                        "startOffset": 54329,
+                        "endColumn": 68,
+                        "endOffset": 54393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 54398,
+                    "endColumn": 62,
+                    "endOffset": 54456
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1099,
+                        "startColumn": 4,
+                        "startOffset": 54398,
+                        "endColumn": 62,
+                        "endOffset": 54456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 54461,
+                    "endColumn": 65,
+                    "endOffset": 54522
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1100,
+                        "startColumn": 4,
+                        "startOffset": 54461,
+                        "endColumn": 65,
+                        "endOffset": 54522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 54527,
+                    "endColumn": 62,
+                    "endOffset": 54585
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1101,
+                        "startColumn": 4,
+                        "startOffset": 54527,
+                        "endColumn": 62,
+                        "endOffset": 54585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 54590,
+                    "endColumn": 58,
+                    "endOffset": 54644
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1102,
+                        "startColumn": 4,
+                        "startOffset": 54590,
+                        "endColumn": 58,
+                        "endOffset": 54644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 54649,
+                    "endColumn": 55,
+                    "endOffset": 54700
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1103,
+                        "startColumn": 4,
+                        "startOffset": 54649,
+                        "endColumn": 55,
+                        "endOffset": 54700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 54705,
+                    "endColumn": 59,
+                    "endOffset": 54760
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1104,
+                        "startColumn": 4,
+                        "startOffset": 54705,
+                        "endColumn": 59,
+                        "endOffset": 54760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 54765,
+                    "endColumn": 58,
+                    "endOffset": 54819
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1105,
+                        "startColumn": 4,
+                        "startOffset": 54765,
+                        "endColumn": 58,
+                        "endOffset": 54819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 54824,
+                    "endColumn": 53,
+                    "endOffset": 54873
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1106,
+                        "startColumn": 4,
+                        "startOffset": 54824,
+                        "endColumn": 53,
+                        "endOffset": 54873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 54878,
+                    "endColumn": 55,
+                    "endOffset": 54929
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1107,
+                        "startColumn": 4,
+                        "startOffset": 54878,
+                        "endColumn": 55,
+                        "endOffset": 54929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 54934,
+                    "endColumn": 57,
+                    "endOffset": 54987
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1108,
+                        "startColumn": 4,
+                        "startOffset": 54934,
+                        "endColumn": 57,
+                        "endOffset": 54987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 54992,
+                    "endColumn": 55,
+                    "endOffset": 55043
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1109,
+                        "startColumn": 4,
+                        "startOffset": 54992,
+                        "endColumn": 55,
+                        "endOffset": 55043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 55048,
+                    "endColumn": 59,
+                    "endOffset": 55103
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1110,
+                        "startColumn": 4,
+                        "startOffset": 55048,
+                        "endColumn": 59,
+                        "endOffset": 55103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 55108,
+                    "endColumn": 57,
+                    "endOffset": 55161
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1111,
+                        "startColumn": 4,
+                        "startOffset": 55108,
+                        "endColumn": 57,
+                        "endOffset": 55161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 55166,
+                    "endColumn": 53,
+                    "endOffset": 55215
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1112,
+                        "startColumn": 4,
+                        "startOffset": 55166,
+                        "endColumn": 53,
+                        "endOffset": 55215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 55220,
+                    "endColumn": 58,
+                    "endOffset": 55274
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1113,
+                        "startColumn": 4,
+                        "startOffset": 55220,
+                        "endColumn": 58,
+                        "endOffset": 55274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 55279,
+                    "endColumn": 55,
+                    "endOffset": 55330
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1114,
+                        "startColumn": 4,
+                        "startOffset": 55279,
+                        "endColumn": 55,
+                        "endOffset": 55330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 55335,
+                    "endColumn": 55,
+                    "endOffset": 55386
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1115,
+                        "startColumn": 4,
+                        "startOffset": 55335,
+                        "endColumn": 55,
+                        "endOffset": 55386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 55391,
+                    "endColumn": 59,
+                    "endOffset": 55446
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1116,
+                        "startColumn": 4,
+                        "startOffset": 55391,
+                        "endColumn": 59,
+                        "endOffset": 55446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1117,
+                    "startColumn": 4,
+                    "startOffset": 55451,
+                    "endColumn": 57,
+                    "endOffset": 55504
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1117,
+                        "startColumn": 4,
+                        "startOffset": 55451,
+                        "endColumn": 57,
+                        "endOffset": 55504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 55509,
+                    "endColumn": 53,
+                    "endOffset": 55558
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1118,
+                        "startColumn": 4,
+                        "startOffset": 55509,
+                        "endColumn": 53,
+                        "endOffset": 55558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 55563,
+                    "endColumn": 57,
+                    "endOffset": 55616
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1119,
+                        "startColumn": 4,
+                        "startOffset": 55563,
+                        "endColumn": 57,
+                        "endOffset": 55616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1120,
+                    "startColumn": 4,
+                    "startOffset": 55621,
+                    "endColumn": 60,
+                    "endOffset": 55677
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1120,
+                        "startColumn": 4,
+                        "startOffset": 55621,
+                        "endColumn": 60,
+                        "endOffset": 55677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1121,
+                    "startColumn": 4,
+                    "startOffset": 55682,
+                    "endColumn": 55,
+                    "endOffset": 55733
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1121,
+                        "startColumn": 4,
+                        "startOffset": 55682,
+                        "endColumn": 55,
+                        "endOffset": 55733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1122,
+                    "startColumn": 4,
+                    "startOffset": 55738,
+                    "endColumn": 53,
+                    "endOffset": 55787
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1122,
+                        "startColumn": 4,
+                        "startOffset": 55738,
+                        "endColumn": 53,
+                        "endOffset": 55787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 55792,
+                    "endColumn": 55,
+                    "endOffset": 55843
+                },
+                "from": {
+                    "file": "/home/vishy/AndroidStudioProjects/BullStock_final-new/D:\\Android\\BullStock_final\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1123,
+                        "startColumn": 4,
+                        "startOffset": 55792,
+                        "endColumn": 55,
+                        "endOffset": 55843
+                    }
+                }
+            }
+        ]
+    }
+]
